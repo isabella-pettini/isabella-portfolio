@@ -1,14 +1,6 @@
-import React from 'react';
-// header
-// content aka about me
-// footer
-// nav
-// portfolio
-// contact
-// resume
+import React from "react";
+import Container from "./components/Container";
 
-function App() {
-
-}
+const App = () => <Container />;
 
 export default App;
